@@ -1,0 +1,6 @@
+res://scenes/game.tscn
+res://scenes/killzone.tscn
+res://scenes/slime.tscn
+res://scenes/player.tscn
+res://scenes/coin.tscn
+res://scripts/player.gd
